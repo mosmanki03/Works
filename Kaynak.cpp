@@ -10,7 +10,7 @@ public:
 ortalama deg;
 
 void vize() {
-	//VÝZE NOTU HESAPLAYICI
+	//VIZE NOTU HESAPLAYICI
 	cout << "Vize notunuzu giriniz:\n";
 	int vize_notu;
 	cin >> vize_notu;
@@ -19,7 +19,7 @@ void vize() {
 
 }
 void final() {
-	//FÝNAL NOTU HESAPLAYICI
+	//FINAL NOTU HESAPLAYICI
 	cout << "Final notunuzu giriniz:\n";
 	int final_notu;
 	cin >> final_notu;
